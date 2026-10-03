@@ -12,7 +12,7 @@ import (
 	"strings"
 	"text/tabwriter"
 
-	"loom/internal/store"
+	"github.com/shingkid/loom/internal/store"
 )
 
 const version = "0.1.0"
